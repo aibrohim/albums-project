@@ -1,4 +1,3 @@
-import Album from "../../components/album/album";
 import Albums from "../../components/albums/albums";
 
 const Home = () => {
